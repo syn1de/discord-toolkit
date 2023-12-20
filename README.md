@@ -40,7 +40,7 @@ Discord Ripper is a Python script that allows you to collect links (attachments,
 1. Double-click the Python file or run it through the terminal.
 
    ```bash
-   python discord_ripper.py
+   discord_ripper.py
    ```
 
 2. Enter your Discord token when prompted.
