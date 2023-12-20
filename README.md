@@ -8,13 +8,13 @@ Discord Ripper is a Python script that allows you to collect links (attachments,
 
 ## 📋 Table of Contents
 
-- [Getting Started](###getting-started)
+- [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](##usage)
-- [Contributing](##contributing)
-- [License](##license)
-- [Acknowledgments](##acknowledgments)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## 🚀 Getting Started
 
