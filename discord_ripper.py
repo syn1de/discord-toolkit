@@ -39,7 +39,7 @@ def collect_links(channel_id, headers):
 
 if __name__ == "__main__":
     print("\n" + "=" * 50)
-    print(" " * 20 + "LOL XD" + " " * 20)
+    print(" " * 20 + "DISCORD RIPPER" + " " * 20)
     print("=" * 50 + "\n")
 
     # Get user input for token
@@ -60,4 +60,4 @@ if __name__ == "__main__":
             f.write(link + '\n')
 
         # Print a completion message
-        print('DISRIPPER - BY CYANIDE completed.')
+        print('completed.')
