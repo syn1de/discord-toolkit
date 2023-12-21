@@ -35,7 +35,7 @@ Discord Ripper is a Python script that allows you to collect links (attachments,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/discord-toolkit
+   git clone https://github.com/syn1de/discord-toolkit
 
 2. Navigate to the project directory:
 
